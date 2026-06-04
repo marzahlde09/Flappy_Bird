@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>C:/Users/marzada/OneDrive - Mukwonago Area School District/Desktop/GameDesign/FlappyBird/Content/fonts/MarkerFelt-64.spritefont</SourceFile>
+  <SourceTime>2026-01-29T07:51:22.699731-06:00</SourceTime>
+  <DestFile>C:/Users/marzada/OneDrive - Mukwonago Area School District/Desktop/GameDesign/FlappyBird/Content/bin/Windows/Content/fonts/MarkerFelt-64.xnb</DestFile>
+  <DestTime>2026-03-02T10:05:12.787341-06:00</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2024-08-16T12:05:56-05:00</ImporterTime>
+  <Processor>FontDescriptionProcessor</Processor>
+  <ProcessorTime>2024-08-16T12:05:56-05:00</ProcessorTime>
+  <Parameters>
+    <Key>PremultiplyAlpha</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Compressed</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>
